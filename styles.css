@@ -1,0 +1,26 @@
+body {
+  background-image: url("images/background.png");
+}
+div#container {
+width: 600px
+margin-left: auto;
+margin-right: auto;
+text-align: center;
+}
+
+img#headshot {
+  height: 300px;
+  border: 1px solid black;
+}
+ul {
+  text-align: left;
+}
+table {
+  width: 100%
+}
+td {
+  border: 1px solid #b0b0b0;
+}
+img#twitter_logo {
+  width: 100px;
+}
